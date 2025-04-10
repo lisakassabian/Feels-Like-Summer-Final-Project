@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>&quot;Feels Like Summer&quot;</title>
+    <link href="https://lisakassabian.github.io/Feels-Like-Summer-Final-Project/feed.xml" rel="self" />
+    <link href="https://lisakassabian.github.io/Feels-Like-Summer-Final-Project" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Lisa Kassabian</name>
+    </author>
+    <id>https://lisakassabian.github.io/Feels-Like-Summer-Final-Project</id>
+
+</feed>

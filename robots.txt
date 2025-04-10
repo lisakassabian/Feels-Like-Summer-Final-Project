@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lisakassabian.github.io/Feels-Like-Summer-Final-Project/sitemap.xml
